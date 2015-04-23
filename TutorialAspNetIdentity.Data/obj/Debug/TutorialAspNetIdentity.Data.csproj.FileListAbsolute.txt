@@ -1,0 +1,7 @@
+C:\Users\Cleber\Documents\Visual Studio 2013\TutorialAspNetIdentity\TutorialAspNetIdentity.Data\bin\Debug\TutorialAspNetIdentity.Data.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\TutorialAspNetIdentity\TutorialAspNetIdentity.Data\bin\Debug\TutorialAspNetIdentity.Data.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\TutorialAspNetIdentity\TutorialAspNetIdentity.Data\bin\Debug\TutorialAspNetIdentity.Domain.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\TutorialAspNetIdentity\TutorialAspNetIdentity.Data\bin\Debug\TutorialAspNetIdentity.Domain.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\TutorialAspNetIdentity\TutorialAspNetIdentity.Data\obj\Debug\TutorialAspNetIdentity.Data.csprojResolveAssemblyReference.cache
+C:\Users\Cleber\Documents\Visual Studio 2013\TutorialAspNetIdentity\TutorialAspNetIdentity.Data\obj\Debug\TutorialAspNetIdentity.Data.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\TutorialAspNetIdentity\TutorialAspNetIdentity.Data\obj\Debug\TutorialAspNetIdentity.Data.pdb
